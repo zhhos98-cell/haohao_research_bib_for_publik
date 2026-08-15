@@ -1,0 +1,7 @@
+title: Odd Bibliographies
+description: Working bibliographies assembled around narrow research questions.
+url: https://zhhos98-cell.github.io
+baseurl: /haohao_research_bib_for_publik
+markdown: kramdown
+exclude:
+  - README.md

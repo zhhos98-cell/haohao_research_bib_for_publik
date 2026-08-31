@@ -8,6 +8,7 @@ This repository is a **publication / presentation layer**, not a canonical resea
 
 ## Current pages
 
+- [Failed Experiments and Scientific Instruments — working bibliography](https://zhhos98-cell.github.io/haohao_research_bib_for_publik/failed-experiments-instruments/)
 - [Puritan Women and Manuscript Culture — working bibliography](https://zhhos98-cell.github.io/haohao_research_bib_for_publik/puritan-women-manuscript-culture/)
 - [Microscope Slides — working bibliography](https://zhhos98-cell.github.io/haohao_research_bib_for_publik/microscope-slides/)
 - [Lucy Hutchinson — working bibliography](https://zhhos98-cell.github.io/haohao_research_bib_for_publik/lucy-hutchinson/)
